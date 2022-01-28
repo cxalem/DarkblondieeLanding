@@ -1,5 +1,4 @@
-import "./components/MobileBanner.js";
-
-const banner = document.querySelector('mobile-banner');
-
-console.log(banner);
+import "./components/MobileBanner";
+import "./components/MobileMainContent";
+import "./components/ContactButton";
+import "./components/ProductsButton";
